@@ -14,12 +14,12 @@ Desenvolva um programa que conte quantas vezes a letra 'a' (tanto maiúscula qua
 
 ### 3. Cálculo da Soma
 Dado o trecho de código abaixo:
+```plaintext
 int INDICE = 12, SOMA = 0, K = 1;
 enquanto K < INDICE faça {
     K = K + 1;
     SOMA = SOMA + K;
 }
 imprimir(SOMA);
-
+```
 Ao final do processamento, qual será o valor da variável SOMA?
-
